@@ -42,7 +42,7 @@ Example: `1. Two Sum.java`
 - 2356 . Number of Unique Subjects Taught by Each Teacher (SQL)
 - 1193 . Monthly Transactions I (SQL)
 - 1211 . Queries Quality and Percentage (SQL)
-- 1280 . Students and Examinations (SQL)
+- 1731. The Number of Employees Which Report to Each Employee
 
 ## Stats
 
