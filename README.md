@@ -41,7 +41,7 @@ Example: `1. Two Sum.java`
 - 596 . Classes More Than 5 Students (SQL)
 - 2356 . Number of Unique Subjects Taught by Each Teacher (SQL)
 - 1193 . Monthly Transactions I (SQL)
-- 1211 . Queries Quality and Percentage (SQL)
+- 1789 . Primary Department for Each Employee
 - 1731 . The Number of Employees Which Report to Each Employee
 
 ## Stats
