@@ -39,7 +39,7 @@ Example: `1. Two Sum.java`
 ## Recent Additions
 
 - 596 . Classes More Than 5 Students (SQL)
-- 2356 . Number of Unique Subjects Taught by Each Teacher (SQL)
+- 610 . Triangle Judgement
 - 1729 . Find Followers Count
 - 1789 . Primary Department for Each Employee
 - 1731 . The Number of Employees Which Report to Each Employee
