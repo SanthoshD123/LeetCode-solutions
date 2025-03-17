@@ -38,7 +38,7 @@ Example: `1. Two Sum.java`
 
 ## Recent Additions
 
-- 596 . Classes More Than 5 Students (SQL)
+- 221 . Maximal Square
 - 1978 . Employees Whose Manager Left the Company
 - 1729 . Find Followers Count
 - 1789 . Primary Department for Each Employee
