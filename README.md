@@ -42,7 +42,7 @@ Example: `1. Two Sum.java`
 - 1978 . Employees Whose Manager Left the Company
 - 1729 . Find Followers Count
 - 1789 . Primary Department for Each Employee
-- 1731 . The Number of Employees Which Report to Each Employee
+- 1137 . N-th Tribonacci Number
 
 ## Stats
 
