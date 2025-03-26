@@ -40,7 +40,7 @@ Example: `1. Two Sum.java`
 
 - 221 . Maximal Square
 - 1978 . Employees Whose Manager Left the Company
-- 1667 . Fix Names in a Table
+- 1527 . Patients With a Condition
 - 619 . Biggest Single Number
 - 1137 . N-th Tribonacci Number
 
