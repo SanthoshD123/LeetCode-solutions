@@ -39,7 +39,7 @@ Example: `1. Two Sum.java`
 ## Recent Additions
 
 - 221 . Maximal Square
-- 1978 . Employees Whose Manager Left the Company
+- 196 . Delete Duplicate Emails
 - 1527 . Patients With a Condition
 - 619 . Biggest Single Number
 - 1137 . N-th Tribonacci Number
