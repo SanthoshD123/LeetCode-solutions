@@ -39,7 +39,7 @@ Example: `1. Two Sum.java`
 ## Recent Additions
 
 - 767 . Reorganize String
-- 42 . Trapping Rain Water
+- 239 . Sliding Window Maximum
 - 1527 . Patients With a Condition
 - 619 . Biggest Single Number
 - 1137 . N-th Tribonacci Number
