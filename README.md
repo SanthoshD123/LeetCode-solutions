@@ -40,7 +40,7 @@ Example: `1. Two Sum.java`
 
 - 767 . Reorganize String
 - 239 . Sliding Window Maximum
-- 1527 . Patients With a Condition
+- 77 . Combinations
 - 619 . Biggest Single Number
 - 1137 . N-th Tribonacci Number
 
