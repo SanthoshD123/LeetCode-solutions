@@ -38,7 +38,7 @@ Example: `1. Two Sum.java`
 
 ## Recent Additions
 
-- 767 . Reorganize String
+- 176 . Second Highest Salary
 - 239 . Sliding Window Maximum
 - 77 . Combinations
 - 619 . Biggest Single Number
